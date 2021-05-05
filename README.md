@@ -12,3 +12,7 @@ Easy to see, a test repository that notes how to use GitHub
 # 3. To create a new repository.
     3-1. Log in to GitHub.
 ![how_to_use_1](https://user-images.githubusercontent.com/65026050/117087898-cc9f8d80-ad8b-11eb-8a38-e8b90e690de5.jpg)
+
+    3-2. Create a new repository.
+![how_to_use_2](https://user-images.githubusercontent.com/65026050/117088452-6a478c80-ad8d-11eb-9bb2-4d673854b27e.jpg)
+
