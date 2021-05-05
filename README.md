@@ -19,9 +19,11 @@ Easy to see, a test repository that notes how to use GitHub
     3-3. Create a new repository (set repository details).
 ![how_to_use_3](https://user-images.githubusercontent.com/65026050/117089049-51d87180-ad8f-11eb-92ac-3e4d4606da12.jpg)
 
-# 4. To create a new branch.
+# 4. What is Branch ?
     4-1. When you create a repository, you get a main branch called "Master".
     4-2. Another branch based on the main branch called "Master" needs to be developed and modified.
     (Several developers use different branches to fix bugs and work on specific tasks, then merge them when they are done.)
 ![how_to_use_4](https://user-images.githubusercontent.com/65026050/117089689-28b8e080-ad91-11eb-9d3c-8e5a0283e8b7.jpg)
 
+# 5. To create a new branch.
+    5-1. 
