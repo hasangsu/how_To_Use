@@ -35,4 +35,11 @@ Easy to see, a test repository that notes how to use GitHub
     6-1. Make sure to create a new branch based on the "Master" branch.
 ![how_to_use_6](https://user-images.githubusercontent.com/65026050/117090756-2ad06e80-ad94-11eb-97a1-71f6132c3ad3.jpg)
 
+# 7. Modify and commit to merge into the Master Branch.
+    7-1. If you make changes in the new branch, the following alarm message appears.
+    (This means that the contents have been modified in the "Master" branch and the branch you are working on, so check and merge into one.)
+![how_to_use_7](https://user-images.githubusercontent.com/65026050/117091195-77687980-ad95-11eb-9ed5-7e7e89822ff6.jpg)
+
+    7-2. Write the title and content of the changed details in detail, and when a Create pull request is made, the related details are delivered to team members and specific people.
+![how_to_use_8](https://user-images.githubusercontent.com/65026050/117091443-3f156b00-ad96-11eb-9166-afcc69f9ed98.jpg)
 
