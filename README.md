@@ -43,3 +43,7 @@ Easy to see, a test repository that notes how to use GitHub
 
     7-2. Write the title and content of the changed details in detail, and when a Create pull request is made, the related details are delivered to team members and specific people.
 ![how_to_use_8](https://user-images.githubusercontent.com/65026050/117091545-987d9a00-ad96-11eb-81da-e45b04332ad5.jpg)
+
+    7-3. If the modifications in the new branch conflict with the Master branch or there are no errors, it will be displayed in green as shown in the picture.
+    (Click the merge pull request to proceed with the merge)
+![how_to_use_9](https://user-images.githubusercontent.com/65026050/117091877-a384fa00-ad97-11eb-981e-83b3a03f2822.jpg)
