@@ -31,3 +31,8 @@ Easy to see, a test repository that notes how to use GitHub
     5-3. Click Create Branch!
 ![how_to_use_5](https://user-images.githubusercontent.com/65026050/117090489-67e83100-ad93-11eb-86fa-ab496b8f055e.jpg)
 
+# 6. Check the new branch created.
+    6-1. Make sure to create a new branch based on the "Master" branch.
+![how_to_use_6](https://user-images.githubusercontent.com/65026050/117090756-2ad06e80-ad94-11eb-97a1-71f6132c3ad3.jpg)
+
+
