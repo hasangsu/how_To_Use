@@ -2,7 +2,7 @@
 
 Easy to see, a test repository that notes how to use GitHub
 
-1. What is GitHub ?
+<h1>1. What is GitHub ?</h1>
    1-1. GitHub is a code hosting platform for version control and collaboration.
 
 2. You need a repository to proceed with your project.
