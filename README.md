@@ -16,3 +16,7 @@ Easy to see, a test repository that notes how to use GitHub
     3-2. Create a new repository.
 ![how_to_use_2](https://user-images.githubusercontent.com/65026050/117088452-6a478c80-ad8d-11eb-9bb2-4d673854b27e.jpg)
 
+    3-3. Create a new repository (set repository details).
+![how_to_use_3](https://user-images.githubusercontent.com/65026050/117089049-51d87180-ad8f-11eb-92ac-3e4d4606da12.jpg)
+
+
