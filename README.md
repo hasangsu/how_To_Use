@@ -26,4 +26,8 @@ Easy to see, a test repository that notes how to use GitHub
 ![how_to_use_4](https://user-images.githubusercontent.com/65026050/117089689-28b8e080-ad91-11eb-9d3c-8e5a0283e8b7.jpg)
 
 # 5. To create a new branch.
-    5-1. 
+    5-1. Access the desired repository.
+    5-2. After setting it as the "Master" branch of the repository, write down the new branch name.
+    5-3. Click Create Branch!
+![how_to_use_5](https://user-images.githubusercontent.com/65026050/117090489-67e83100-ad93-11eb-86fa-ab496b8f055e.jpg)
+
