@@ -15,6 +15,14 @@ Easy to see, a test repository that notes how to use GitHub Visual Studio CPP
     (Automatic installation can take a long time. Let's wait slowly!)
 ![how_To_Use_VisualStudio_4](https://user-images.githubusercontent.com/65026050/117523010-661ba900-aff1-11eb-9b90-f88f7c10459c.jpg)
 
+    1-5. Congratulations! If you have an alarm to restart your computer, you have successfully installed it.
 
+# 2. Let's make a test project.
+    2-1. Let's run Visual Studio that has been installed.
+![how_To_Use_VisualStudio_5](https://user-images.githubusercontent.com/65026050/117523698-afb9c300-aff4-11eb-89d9-c35b8dabe10d.jpg)
 
-   
+    2-2. Log in or select later as appropriate.
+    (The writer will log in and proceed.)
+![how_To_Use_VisualStudio_6](https://user-images.githubusercontent.com/65026050/117523770-03c4a780-aff5-11eb-868a-f2e68d480728.jpg)
+![how_To_Use_VisualStudio_7](https://user-images.githubusercontent.com/65026050/117523920-e6dca400-aff5-11eb-99d7-fa308dc26944.jpg)
+
