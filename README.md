@@ -37,8 +37,9 @@ Easy to see, a test repository that notes how to use GitHub Visual Studio CPP
 ![how_To_Use_VisualStudio_10](https://user-images.githubusercontent.com/65026050/117524099-00cab680-aff7-11eb-8d30-37373f1cade2.jpg)
 
     2-6. Let's create a CPP class inside the project!
-    (In the right Solution Explorer, let's add a new item by right-clicking on the project name you wrote earlier.)
 ![how_To_Use_VisualStudio_11](https://user-images.githubusercontent.com/65026050/117524825-450b8600-affa-11eb-9416-e825f9083898.jpg)
+
+    (In the right Solution Explorer, let's add a new item by right-clicking on the project name you wrote earlier.)
 ![how_To_Use_VisualStudio_12](https://user-images.githubusercontent.com/65026050/117524230-a3833500-aff7-11eb-86cf-ac2235a97af8.jpg)
 ![how_To_Use_VisualStudio_13](https://user-images.githubusercontent.com/65026050/117524447-345a1080-aff8-11eb-8ba9-bc923864340c.jpg)
 ![how_To_Use_VisualStudio_14](https://user-images.githubusercontent.com/65026050/117524499-8438d780-aff8-11eb-8ead-e04fe3145bc7.jpg)
