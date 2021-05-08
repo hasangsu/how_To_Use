@@ -37,6 +37,18 @@ Easy to see, a test repository that notes how to use GitHub Visual Studio CPP
 ![how_To_Use_VisualStudio_10](https://user-images.githubusercontent.com/65026050/117524099-00cab680-aff7-11eb-8d30-37373f1cade2.jpg)
 
     2-6. Let's create a CPP class inside the project!
+![how_To_Use_VisualStudio_16](https://user-images.githubusercontent.com/65026050/117524792-0aa1e900-affa-11eb-9787-856f8726b72e.jpg)
+
+    2-7. Congratulations on the successful code output!
     (In the right Solution Explorer, let's add a new item by right-clicking on the project name you wrote earlier.)
 ![how_To_Use_VisualStudio_12](https://user-images.githubusercontent.com/65026050/117524230-a3833500-aff7-11eb-86cf-ac2235a97af8.jpg)
 ![how_To_Use_VisualStudio_13](https://user-images.githubusercontent.com/65026050/117524447-345a1080-aff8-11eb-8ba9-bc923864340c.jpg)
+![how_To_Use_VisualStudio_14](https://user-images.githubusercontent.com/65026050/117524499-8438d780-aff8-11eb-8ead-e04fe3145bc7.jpg)
+
+    2-7. Writing CPP code to output "Hello World!"
+![how_To_Use_VisualStudio_15](https://user-images.githubusercontent.com/65026050/117524720-8e0f0a80-aff9-11eb-929e-ea19c208a1d7.jpg)
+
+    2-8. Build to determine written code (Ctrl + F5)
+
+
+
