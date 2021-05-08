@@ -51,3 +51,15 @@ Easy to see, a test repository that notes how to use GitHub Visual Studio CPP
 ![how_To_Use_VisualStudio_16](https://user-images.githubusercontent.com/65026050/117524792-0aa1e900-affa-11eb-9787-856f8726b72e.jpg)
 
     2-9. Congratulations on the successful code output!
+
+# 3. Visual studio github the Let's try to work with.
+    3-1. Select the Git repository from the right-click pop-up menu in the solution.
+![how_To_Use_VisualStudio_17](https://user-images.githubusercontent.com/65026050/117529349-25805780-b012-11eb-958c-bbefe2d8278b.jpg)
+
+    3-2. Log in to your GitHub account, write down and create a description of the repository when it is verified to be linked to Visual Studio.
+![how_To_Use_VisualStudio_18](https://user-images.githubusercontent.com/65026050/117529484-bb1be700-b012-11eb-80b2-dbda6a9b9c91.jpg)
+
+    3-3. If GitHub's repository was created and linked normally, the solution and project would have a lock shape.
+![how_To_Use_VisualStudio_19](https://user-images.githubusercontent.com/65026050/117529552-18b03380-b013-11eb-84fd-1702a41c3f90.jpg)
+
+
