@@ -12,6 +12,7 @@ Easy to see, a test repository that notes how to use GitHub Visual Studio CPP
 ![how_To_Use_VisualStudio_3](https://user-images.githubusercontent.com/65026050/117522646-88acc280-afef-11eb-94ec-52ab807686f5.jpg)
 
     1-4. After downloading the installation file, the installation is completed automatically.
+    (Automatic installation can take a long time. Let's wait slowly!)
 ![how_To_Use_VisualStudio_4](https://user-images.githubusercontent.com/65026050/117523010-661ba900-aff1-11eb-9b90-f88f7c10459c.jpg)
 
 
