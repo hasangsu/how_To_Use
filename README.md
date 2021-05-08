@@ -62,4 +62,6 @@ Easy to see, a test repository that notes how to use GitHub Visual Studio CPP
     3-3. If GitHub's repository was created and linked normally, the solution and project would have a lock shape.
 ![how_To_Use_VisualStudio_19](https://user-images.githubusercontent.com/65026050/117529552-18b03380-b013-11eb-84fd-1702a41c3f90.jpg)
 
+    3-4. Go into GitHub and check it out. The repository created by visual studio should be created normally.
+![how_To_Use_VisualStudio_20](https://user-images.githubusercontent.com/65026050/117529636-89575000-b013-11eb-8b2a-cae1f4b8012b.jpg)
 
